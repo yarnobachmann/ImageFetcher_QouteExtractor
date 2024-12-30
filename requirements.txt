@@ -1,0 +1,6 @@
+icrawler==0.6.6
+Pillow>=9.2.0
+paddleocr>=2.0.0
+Pillow>=9.2.0
+sqlite3  
+tk  
